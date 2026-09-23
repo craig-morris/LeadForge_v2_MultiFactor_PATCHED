@@ -1,0 +1,15 @@
+{
+  "hunter_io_api_key": "",
+  "clearbit_api_key": "",
+  "google_places_api_key": "",
+  "use_hunter": false,
+  "use_clearbit": false,
+  "use_google_places": false,
+  "default_concurrency": 5,
+  "default_delay_seconds": 0.75,
+  "user_agent_pool_size": 8,
+  "cache_ttl_days": 30,
+  "request_timeout_seconds": 15,
+  "website_candidate_threshold": 62,
+  "max_pages_per_site": 6
+}
